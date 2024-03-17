@@ -1,5 +1,5 @@
-// console.log("Hello from NodeJs to Kuldeep Rathor");
+console.log("Hello from NodeJs to Kuldeep Rathor");
 
-const fs = require('fs');
+// const fs = require('fs');
 
-fs.writeFileSync("hello.txt" , "Hello from NodeJs to Kuldeep Rathor")
+// fs.writeFileSync("hello.txt" , "Hello from NodeJs to Kuldeep Rathor")
